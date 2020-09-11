@@ -18,9 +18,7 @@ Primary.args = {
   label: 'Button',
 };
 Primary.parameters={
-  chromatic:{
-    chromatic: { disable: true }
-  }
+  chromatic: { disable: true },
 }
 
 
