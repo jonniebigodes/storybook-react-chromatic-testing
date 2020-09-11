@@ -17,10 +17,10 @@ Primary.args = {
   primary: true,
   label: "Button",
 };
-Primary.parameters = {
+/* Primary.parameters = {
   chromatic: { disable: false },
 };
-
+ */
 export const Secondary = Template.bind({});
 Secondary.args = {
   label: "Button",
