@@ -7,9 +7,9 @@ export default {
   component: TaskList,
   title: 'TaskList',
   decorators: [story => <div style={{ padding: '3rem' }}>{story()}</div>],
-  parameters: {
+ /*  parameters: {
     chromatic: { viewports: [320, 1200] },
-  },
+  }, */
 };
 
 const Template = args => <TaskList {...args} />;

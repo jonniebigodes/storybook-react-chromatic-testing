@@ -18,9 +18,9 @@ Default.args = {
     updatedAt: new Date(2018, 0, 1, 9, 0),
   },
 };
-Default.parameters = {
+/* Default.parameters = {
   chromatic: { viewports: [320, 1200] },
-};
+}; */
 
 export const Pinned = Template.bind({});
 Pinned.args = {
